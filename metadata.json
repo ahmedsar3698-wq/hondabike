@@ -1,0 +1,6 @@
+{
+  "name": "HONDA BIKE — Official Pakistan Motorcycle Showroom",
+  "description": "Explore official Atlas Honda Pakistan motorcycles, verified PKR prices, full specifications, and showroom inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
